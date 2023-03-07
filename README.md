@@ -1,1 +1,1 @@
-My portfolio: https://jayecow.github.io/final-project/
+My portfolio: https://jayecow.github.io/portfolio/
